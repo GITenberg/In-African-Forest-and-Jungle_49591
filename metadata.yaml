@@ -1,9 +1,13 @@
 _repo: In-African-Forest-and-Jungle_49591
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Perard, Victor
     gutenberg_agent_id: '45430'
     url: http://www.gutenberg.org/2009/agents/45430
+covers:
+- cover_type: archival
+  image_path: 49591-h/images/cover.jpg
 creator:
   author:
     agent_name: Du Chaillu, Paul B. (Paul Belloni)
@@ -18,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25508
     wikipedia: http://en.wikipedia.org/wiki/Paul_du_Chaillu
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49591#In-African-Forest-and-Jungle
 gutenberg_issued: '2015-08-04'
 gutenberg_type: Text
 identifiers:
